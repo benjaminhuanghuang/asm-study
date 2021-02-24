@@ -15,3 +15,10 @@ Windows
   docker run --rm -it -v %cd%:/root/env myos-buildenv
 ```
 Now we are inside a virtual linux machine at /root/env
+
+
+# Tools
+valgrind
+
+time ./hello.exe
+
